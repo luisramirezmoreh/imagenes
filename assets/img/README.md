@@ -1,0 +1,2 @@
+assets/
+ └─ img/
